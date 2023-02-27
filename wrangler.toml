@@ -1,0 +1,7 @@
+name = "webauthn"
+main = "src/index.ts"
+compatibility_date = "2023-02-27"
+
+kv_namespaces = [
+    { binding = "Storage", id = "4a888806d4b14ccf81da0627c3369947", preview_id = "4a888806d4b14ccf81da0627c3369947" }
+]
